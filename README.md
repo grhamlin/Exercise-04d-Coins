@@ -1,6 +1,7 @@
-# Exercise-04c-Enemies
+# Exercise-04d-Coins
 
 ## Implementation
+Added coins that can be picked up by the player, and placed using the tilemap.
 
 ## References
 
@@ -12,6 +13,7 @@ Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
+Project 4
 
 ## Created by
-Nathan Mishler
+Griffith Hamlin
