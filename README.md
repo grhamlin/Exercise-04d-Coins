@@ -1,6 +1,6 @@
 # Project 4 - 2D Platformer
-Create a 2D platformer containing a player, that can be controlled with the keyboard, a camera that follows that player, enemies, and a scoring system.
-Due: 3/9/2025
+- Create a 2D platformer containing a player, that can be controlled with the keyboard, a camera that follows that player, enemies, and a scoring system.
+- Due: 03/16/2025
 
 ## Implementation
 **Required Features Included**
