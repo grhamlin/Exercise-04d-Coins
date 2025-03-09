@@ -30,8 +30,8 @@ Due: 3/9/2025
 - The levels scale in difficulty, adding new elements and enemies with each one. Not necessarily interesting but something I thought about. 
 
 ## References
-https://sfelly79.itch.io/snowymountains-16x16-pixelart-tileset?download - Snowy Background Sprite
-https://feony.itch.io/animated-pixel-art-backgrounds-free - Menu Images
+- https://sfelly79.itch.io/snowymountains-16x16-pixelart-tileset?download - Snowy Background Sprite
+- https://feony.itch.io/animated-pixel-art-backgrounds-free - Menu Images
 Exercise Videos for all other sprites/Visual Assets
 
 ## Future Development
